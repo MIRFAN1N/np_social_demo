@@ -9,5 +9,6 @@ class TextValues{
 }
 
 class ImagesPath{
-  static const SiteLogo = AssetImage('assets/login.png');
+  static const SiteLogo = 'assets/logo.png';
+  static const LandingText = 'assets/text.png';
 }
